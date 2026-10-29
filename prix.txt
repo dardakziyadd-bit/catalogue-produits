@@ -1,0 +1,3 @@
+Produit A : 100 DH
+Produit B : 200 DH
+Produit C : 300 DH
